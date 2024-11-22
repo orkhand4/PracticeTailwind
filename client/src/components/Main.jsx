@@ -1,5 +1,4 @@
 import React from 'react'
-import { FaBeer } from 'react-icons/fa';
 import { FaHtml5 } from "react-icons/fa";
 
 const Main = () => {
@@ -17,7 +16,7 @@ const Main = () => {
         <nav className='mt-4 pt-4'>
           <a href="#" className='flex items-center h-10 rounded px-3 text-base text-blue-900 font-medium hover:bg-gray-100 transition-colors'>HTML</a>
           <a href="#" className='flex items-center h-10 rounded px-3 text-base text-blue-900 font-medium hover:bg-gray-100 transition-colors'>CSS</a>
-          <a href="#" className='flex items-center h-10 rounded px-3 text-base text-blue-900 font-medium hover:bg-gray-100 transition-colors'>JavaCript</a>
+          <a href="#" className='flex items-center h-10 rounded px-3 text-base text-blue-900 font-medium hover:bg-gray-100 transition-colors'>JavaScript</a>
           <a href="#" className='flex items-center h-10 rounded px-3 text-base text-blue-900 font-medium hover:bg-gray-100 transition-colors'>PHP</a>
           <a href="#" className='flex items-center h-10 rounded px-3 text-base text-blue-900 font-medium hover:bg-gray-100 transition-colors'>MySQL</a>
         </nav>
